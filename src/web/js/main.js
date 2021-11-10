@@ -17,4 +17,14 @@ function message_received(msg, autoscroll) {
     console.log(msg);
 }
 
+/*
+###############
+#             #
+#   ( )   _   #
+#  (_` )_('>  #
+#  (__,~_)8   #
+#    _YY_     #
+###############
+*/
+
   
