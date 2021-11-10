@@ -71,6 +71,6 @@ python3 src/cravattaBot.py
 ```
 
 ## Possibili miglioramenti
-- [] Migliorare la gui
-- [] Aggiungere il color coding per il codice
-- [] Cambiare telepot con un altra libreria ancora aggiornata
+- [ ] Migliorare la gui
+- [ ] Aggiungere il color coding per il codice
+- [ ] Cambiare telepot con un altra libreria ancora aggiornata
