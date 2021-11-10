@@ -1,0 +1,26 @@
+.heading-text{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.body{
+    display:flex;
+    justify-content: center;
+}
+
+.div-msg{
+    text-align: left;
+    padding: 2%;
+    border-radius: 12px;
+    border: 3px solid black;
+    background-color: rgba(236, 144, 5, 0.733);
+    margin: 1%;
+}
+
+.msg{
+    white-space: pre;
+}
