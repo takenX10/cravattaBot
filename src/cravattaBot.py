@@ -1,4 +1,4 @@
-from botsistemi_data import *
+from botdata import *
 import telepot
 from telepot.loop import MessageLoop
 import eel
