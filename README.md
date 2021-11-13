@@ -10,7 +10,7 @@
     - [Come creare il bot e prendere il token](https://github.com/takenX10/cravattaBot#Come-creare-il-bot-e-prendere-il-token)
     - [Come trovare il chatid](https://github.com/takenX10/cravattaBot#Come-trovare-il-chatid)
 - [Esecuzione](https://github.com/takenX10/cravattaBot#Esecuzione)
-
+- [Possibili miglioramenti](https://github.com/takenX10/cravattaBot#Possibili-miglioramenti)
 ---
 
 ## Installazione e prerequisiti
@@ -69,3 +69,8 @@ Nel caso di modifiche googla la soluzione, è abbastanza banale in ogni caso.
 ```console
 python3 src/cravattaBot.py
 ```
+
+## Possibili miglioramenti
+- [ ] Migliorare la gui
+- [ ] Aggiungere il color coding per il codice
+- [ ] Cambiare telepot con un'altra libreria ancora aggiornata
